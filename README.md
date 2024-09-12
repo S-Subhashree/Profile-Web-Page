@@ -6,7 +6,7 @@ Welcome to the Profile Web Page project! This repository contains the code for a
 
 **HTML Structure:**
 
-- The HTML file contains the basic structure of the webpage, including the <header>, <main>, and <footer> sections.
+- The HTML file contains the basic structure of the webpage, including the header, main, and footer sections.
 - Inside the header, we include a profile picture, a name, a description, and social media links with icons.
 - The main section includes skills, hobbies, and projects.
 
