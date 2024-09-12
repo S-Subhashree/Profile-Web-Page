@@ -16,7 +16,7 @@ Welcome to the Profile Web Page project! This repository contains the code for a
 - Header and Footer: Styles for the header and footer with background color, padding, and text alignment.
 - Responsive Design: Uses media queries to adjust the layout for smaller screens. For example, it reduces the size of the profile picture and social icons on smaller devices.
 
-##Images and Links:
+**Images and Links:**
 
 - Replace profile.jpg, linkedin-icon.png, and github-icon.png with the actual paths to your images.
 - Update the href attributes in the social media links with your LinkedIn and GitHub profiles.
